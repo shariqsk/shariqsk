@@ -1,4 +1,4 @@
-# Hi there, I'm Shariq Khan 👋
+# Greetings, I'm Shariq Khan 👋
 
 ---
 
