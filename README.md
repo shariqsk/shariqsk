@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🧑‍💻 Full Stack Developer, Studying Cybersecurity  
 - 🎯 I love learning and creating things! I'm always looking for new challenges to solve and ways to level up.
@@ -41,7 +41,7 @@
 
 ---
 
-## 🏆 Things I'm working on
+## Things I'm working on
 
 - [Zocraticmma](https://zocraticmma.com) - MMA hub for fans, fighters, and events.
 - [CDLsimulator](https://cdlsimulator.com) - Call of Duty Esports league manager career sim.
