@@ -1,8 +1,5 @@
 # Hi there, I'm Shariq Khan 👋
 
-**Full Stack Developer | Studying Cybersecurity**  
-I build secure, beautiful digital experiences.
-
 ---
 
 <div align="center">
