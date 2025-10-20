@@ -15,11 +15,8 @@ I build secure, beautiful digital experiences.
 
 ## 🚀 About Me
 
-- 🧑‍💻 Full Stack Developer  
-- 📚 Studying Cybersecurity  
-- 🎯 I want to make things that will bring joy to people.
-
-> I love making things that look great, and keep users safe.
+- 🧑‍💻 Full Stack Developer, Studying Cybersecurity  
+- 🎯 I love learning and creating things! I'm always looking for new challenges to solve and ways to level up.
 
 ---
 
@@ -63,4 +60,4 @@ I build secure, beautiful digital experiences.
 
 ---
 
-_“Let’s build something that makes people smile.”_
+_“Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest.”_
