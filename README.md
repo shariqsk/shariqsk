@@ -12,8 +12,8 @@
 
 ## About Me
 
-- 🧑‍💻 Full Stack Developer, Studying Cybersecurity  
-- 🎯 I love learning and creating things! I'm always looking for new challenges to solve and ways to level up.
+- Full Stack Developer, Studying Cybersecurity  
+- I love learning and creating things! I'm always looking for new challenges to solve and ways to level up.
 
 ---
 
