@@ -1,1 +1,1 @@
-hi, checkout https://www.shariqsafdarkhan.com/ for more about me :)
+hi, checkout www.shariqsk.com for more about me :)
