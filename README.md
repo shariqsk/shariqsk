@@ -28,7 +28,7 @@ I build products people use. **[Sandbox Simulator](https://sandboxsimulator.com)
   </tr>
 </table>
 
-I've also built receipt fraud detection for Shake Shack, rebuilt Saftech's platform in Next.js, and got tired of posting to every social platform by hand, so I built a desktop app that does it in one click and saves hours of manual work. On the side, I'm always building something new just for the fun of it.
+At Shake Shack, I worked with a team to develop an internal system to combat fraudulent chargeback claims. I also helped rebuild Saftech's platform in Next.js, and got tired of posting to every social platform by hand, so I built a desktop app that does it in one click. On the side, I'm always building something new just for the fun of it.
 
 I study security at York and I'm looking for **Winter / Summer 2027 internships** in AI/ML, product engineering or forward deployed roles.
 
@@ -52,4 +52,12 @@ I study security at York and I'm looking for **Winter / Summer 2027 internships*
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **AI / ML**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=whit
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Infra**<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
